@@ -1,0 +1,104 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* Header styles */
+.oneline {
+    text-align: center;
+}
+
+.oneline h2 {
+    margin: 0;
+}
+
+/* Navigation styles */
+.arrow {
+    font-size: 20px;
+}
+
+.maincont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Image container styles */
+.image-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.imgtext {
+    font-size: 14px;
+}
+
+.imgbox {
+    margin-top: 10px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.asia {
+    font-weight: bold;
+}
+
+.imglast {
+    margin-top: 10px;
+}
+
+.star {
+    color: goldenrod;
+}
+
+/* Main content styles */
+.maintext {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.mainans {
+    margin-top: 10px;
+}
+
+.mainans p {
+    margin: 5px 0;
+}
+
+/* Button styles */
+.btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Responsive styles */
+@media (max-width: 749px) {
+    .container {
+        padding: 10px;
+    }
+
+    .maintext {
+        font-size: 18px;
+    }
+
+    .mainans {
+        font-size: 14px;
+    }
+}

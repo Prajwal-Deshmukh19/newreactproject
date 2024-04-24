@@ -1,0 +1,902 @@
+#bodyblack {
+    width: 100%;
+
+    background-color: black;
+    color: white;
+}
+
+#oneline {
+    text-align: center;
+    border: 4px solid rgb(147, 10, 124);
+    border-radius: 20px;
+    padding: 10px;
+    width: 50%;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+#hrs {
+    color: goldenrod;
+}
+
+#maincont {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    padding: 15px;
+}
+
+#arrow {
+    font-size: 60px;
+    position: absolute;
+    color: blue;
+    font-size: 41px;
+    top: 129px;
+    right: 1430px;
+    transform: rotate(-30deg)
+}
+
+#headline {
+    font-size: 40px;
+    margin-top: 130px;
+    padding: 20px;
+}
+
+nav {
+    margin-top: 30px;
+
+
+}
+
+#imgtext {
+    font-size: 30px;
+    padding: 10px;
+
+}
+
+#imgtext {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+#imgbox {
+    border: 1px solid gray;
+    color: white;
+    background-color: #231e1e;
+    border-radius: 40px;
+}
+
+#asia {
+    margin-left: 80px;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#asiaa {
+    font-size: 25px;
+    margin-left: 60px;
+
+}
+
+.bi-star-fill {
+    color: goldenrod;
+}
+
+#btnplace {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+#btnsize {
+    font-size: 20px;
+    width: 297px;
+    height: 84px;
+    margin-right: 81px;
+   
+}
+
+#maintext {
+    font-size: 30px;
+}
+
+#mainans {
+    font-size: 25px;
+}
+
+main {
+    margin-top: 10px;
+}
+
+section {
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+}
+
+#start {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#lang {
+    font-size: 25px;
+}
+
+#reg {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#btn02 {
+    width: 80px;
+    padding: 12px;
+    text-align: center;
+    background-color: #231e1e;
+}
+
+#btn05 {
+    width: 80px;
+    padding: 12px;
+    text-align: center;
+    background-color: #231e1e;
+}
+
+#btn09 {
+    width: 85px;
+    padding: 10px;
+    text-align: center;
+    background-color: #231e1e;
+}
+
+#btn55 {
+    width: 85px;
+    padding: 10px;
+    text-align: center;
+    background-color: #231e1e;
+}
+
+#lastrs {
+    color: rgb(30, 209, 30);
+}
+
+#rstext {
+    font-size: 20px;
+}
+
+#fi {
+    width: 140px;
+    height: 40px;
+    text-align: center;
+    padding: 5px;
+    background-color: gold;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+#imgs {
+    width: 650px;
+    height: 200px;
+    background-color: #181717;
+    padding: 15px;
+    justify-content: center;
+    border-radius: 20px;
+
+}
+
+#contentmid {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    background-color: #181717;
+}
+
+#midtext {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#mid1 {
+    margin-top: 45px;
+    font-size: 25px;
+}
+
+.bi-check-circle-fill {
+    color: green;
+}
+
+#tribtn {
+    margin-left: 175px;
+    margin-top: 55px;
+
+}
+
+#btntri {
+        font-size: 25px;
+    margin-bottom: 80px;
+    padding: 28px;
+    margin-left: -33px;
+}
+
+.real {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+#realppl {
+    font-size: 30px;
+    padding: 10px;
+}
+
+#v1 {
+    margin-left: 60px;
+}
+
+#seminarhead {
+    font-size: 30px;
+}
+
+#seminardisp {
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+}
+
+#sem1 {
+    background-color: #181717;
+    padding: 15px;
+    width: 80px;
+    border-radius: 20px;
+}
+
+#semtop {
+    margin-top: 80px;
+}
+
+#correcthead {
+    font-size: 25px;
+}
+
+#sempara {
+    font-size: 22px;
+}
+
+.bi-x-circle-fill {
+    color: red;
+}
+
+#semwrng {
+    font-size: 25px;
+    margin-top: 20px;
+
+}
+
+#hrs4 {
+    font-size: 30px;
+}
+
+#hrshead {
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#hrsng {
+    background-color: #352a2a;
+    padding: 10px;
+}
+
+#hrs01 {
+    background-color: gold;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    color: black;
+}
+
+#num {
+    /* border: 2px solid; */
+    width: 45px;
+    height: 40px;
+    text-align: center;
+    background-color: rgb(206, 163, 8);
+    color: black;
+    font-weight: bold;
+    font-size: 20x;
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    position: absolute;
+
+
+
+
+}
+
+.tant {
+    width: 100%;
+    background-color: rgb(30, 25, 25);
+    border-radius: 200px;
+    padding: 30px;
+
+
+}
+
+#pan {
+    /* border: 2px solid; */
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#para {
+    position: relative;
+    left: 52px;
+
+}
+
+#lastboxx {
+    background-color: rgb(45, 40, 40);
+    width: 500px;
+    margin-left: 500px;
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 40px;
+
+
+
+}
+
+#outerbg {
+    width: 300px;
+    background-color: #181717;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.below-text-line {
+    width: 205px;
+    margin-left: 30px;
+    margin-top: -18px;
+    height: 38px;
+    border: solid 5px yellow;
+    border-color: yellow transparent transparent transparent;
+    border-radius: 165% / 90px 35px 0 0;
+
+}
+
+#hrscss {
+    width: 180px;
+    margin-left: 787px;
+    margin-top: -1px;
+    height: 38px;
+    border: solid 5px yellow;
+    border-color: yellow transparent transparent transparent;
+    border-radius: 165% / 90px 35px 0 0;
+}
+
+#bestcss {
+    width: 166px;
+    margin-left: 843px;
+    margin-top: -4px;
+    height: 38px;
+    border: solid 5px yellow;
+    border-color: yellow transparent transparent transparent;
+    border-radius: 165% / 90px 35px 0 0;
+}
+
+#realcss {
+    width: 366px;
+    margin-left: 77px;
+    margin-top: -10px;
+    height: 38px;
+    border: solid 5px yellow;
+    border-color: yellow transparent transparent transparent;
+    border-radius: 165% / 90px 35px 0 0;
+}
+
+#headline-mobile {
+    display: none;
+}
+.header-triangle{
+    position: absolute;
+    color: gold;
+    font-size: 41px;
+    top: 0px;
+    right:0px;
+    transform: rotate(35deg);
+}
+
+@media only screen and (max-width: 749px) {
+
+    /* #oneline{
+       
+        border: 4px solid rgb(147, 10, 124);
+        border-radius: 20px;
+        padding: 20px;
+      width: 100%;
+    
+    } */
+    #bodyblack {
+        width: 1200px;
+        background-color: black;
+        color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #oneline {
+        /* border: 4px solid rgb(147, 10, 124); */
+        /* border-radius: 20px; */
+       width: 100%;
+        font-size: 20px;
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        margin-top: 60px;
+    }
+    #oneline h2{
+      font-size: 45px;
+      width:60%;
+
+    }
+
+    .header-triangle{
+        position: absolute;
+        color: gold;
+        font-size: 41px;
+        top: -66px;
+        right: -19px;
+        transform: rotate(35deg);
+    }
+
+    header {
+        display: flex;
+        justify-content: center;
+    }
+
+    #hrs {
+        color: goldenrod;
+    }
+
+    #maincont {
+        display: flex;
+        flex-direction: column-reverse
+    }
+
+    #arrow {
+        font-size: 60px;
+        position: absolute;
+        color: blue;
+        font-size: 41px;
+        top: 237px;
+        right: 338px;
+        transform: rotate(-30deg);
+    }
+
+    /* #headline {
+        font-size: 40px;
+        padding: 20px;
+        
+    } */
+    #headline-mobile {
+        display: block;
+        font-size: 50px;
+        margin-top: 20px;
+    }
+
+    #headline {
+        display: none;
+    }
+
+    nav {
+        margin-top: 30px;
+    }
+    #imgjust{
+        width: 50%;
+        height: 500px;
+    }
+
+    #imgtext {
+        font-size: 30px;
+        padding: 10px;
+    }
+
+    #imgtext {
+        font-size: 40px;
+        font-weight: bold;
+    }
+
+
+    #imgbox {
+        border: 1px solid gray;
+        color: white;
+        background-color: #231e1e;
+        width: 900px;
+        border-radius: 50px;
+        padding: 20px;
+        margin-left: 100px;
+    }
+
+    #imgjust {
+        margin-left: 200px;
+    }
+
+
+    #asia {
+        margin-left: 80px;
+        font-weight: bold;
+        font-size: 30px;
+    }
+
+    #asiaa {
+        font-size: 25px;
+        margin-left: 60px;
+    }
+
+    .bi-star-fill {
+        color: goldenrod;
+    }
+
+    #editbox {
+
+        font-size: 50px;
+
+    }
+
+    #btnplace {
+        display: block;
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 60px;
+        /* margin: 50px; */
+border: 2px solid white;
+    }
+
+    #btnsize {
+        font-size: 47px;
+        width: 100%;
+    height: 168px;
+    margin-right: 81px;
+    }
+
+    #maintext {
+        font-size: 60px;
+    }
+
+    #mainans {
+        font-size: 50px;
+    }
+
+    main {
+        margin-top: 10px;
+    }
+
+    section {
+        display: block;
+    }
+
+    #start {
+        font-weight: bold;
+        font-size: 57px;
+    }
+
+    #lang {
+        font-size: 55px;
+    }
+
+    #reg {
+        font-weight: bold;
+        font-size: 60px;
+    }
+
+    #btn02 {
+        width: 280px;
+        padding: 18px;
+        text-align: center;
+        background-color: #231e1e;
+    }
+
+    #btn05 {
+        width: 280px;
+        padding: 18px;
+        text-align: center;
+        background-color: #231e1e;
+    }
+
+    #btn09 {
+        width: 280px;
+        padding: 18px;
+        text-align: center;
+        background-color: #231e1e;
+    }
+
+    #btn55 {
+        width: 280px;
+        padding: 18px;
+        text-align: center;
+        background-color: #231e1e;
+    }
+
+    #lastrs {
+        color: rgb(30, 209, 30);
+    }
+
+    #rstext {
+        font-size: 60px;
+    }
+
+    #fi {
+
+        width: 450px;
+        height: 100px;
+        text-align: center;
+        padding: 5px;
+        background-color: gold;
+        color: black;
+        font-weight: bold;
+        border-radius: 50px;
+        font-size: 60px;
+    }
+
+
+
+    #featureinleft {
+        margin-left: 100px;
+        margin-top: 60px;
+    }
+
+    #imgs {
+        width: 1000px;
+        height: 200px;
+        background-color: #181717;
+        padding: 15px;
+        justify-content: center;
+        border-radius: 50px;
+    }
+
+    #contentmid {
+        display: block;
+
+    }
+
+    #midtext {
+        font-size: 70px;
+        font-weight: bold;
+        margin-bottom: 20px;
+
+    }
+
+    #mid1 {
+        margin-top: 45px;
+        font-size: 40px;
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+
+    .bi-check-circle-fill {
+        color: green;
+    }
+
+    #trishift {
+        margin-left: 267px;
+        width:60%;
+    }
+
+    #tribtn {
+        margin-left: 450px;
+        margin-top: 45px;
+    }
+
+    #btntri {
+        font-size: 45px;
+        margin-left: -88px;
+    }
+
+    .real {
+        display: block;
+
+
+    }
+   
+
+    #realppl {
+        font-size: 70px;
+        padding: 10px;
+    }
+
+    #v1 {
+      width: 1000px;
+    }
+    #v2 {
+        width: 1000px;
+      }
+
+
+    #seminarhead {
+        font-size: 80px;
+        margin-top: 40px;
+    }
+
+    #seminardisp {
+        display: block;
+    }
+
+
+    #sem1 {
+        background-color: #181717;
+        padding: 15px;
+        width: 80px;
+        border-radius: 20px;
+    }
+
+    #semtop {
+        margin-top: 80px;
+    }
+
+    #correcthead {
+        font-size: 55px;
+    }
+
+    #sempara {
+        font-size: 22px;
+    }
+
+    .bi-x-circle-fill {
+        color: red;
+    }
+
+    #semwrng {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    #hrs4 {
+        font-size: 70px;
+        padding-left: 66px;
+        margin-right: 198px;
+        margin-left: 101px
+    }
+
+    #hrshead {
+        font-size: 60px;
+        padding: 10px;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    #hrsng {
+        background-color: #352a2a;
+        padding: 10px;
+    }
+
+    #hrs01 {
+        background-color: gold;
+        padding: 10px;
+        font-weight: bold;
+        font-size: 15px;
+        color: black;
+    }
+
+    #num {
+        /* border: 2px solid; */
+        width: 45px;
+        height: 40px;
+        text-align: center;
+        background-color: rgb(206, 163, 8);
+        color: black;
+        font-weight: bold;
+        font-size: 20x;
+        border-top-right-radius: 14px;
+        border-bottom-right-radius: 14px;
+        position: absolute;
+    }
+
+    .tant {
+        width: 100%;
+        background-color: rgb(30, 25, 25);
+        border-radius: 200px;
+        padding: 30px;
+    }
+
+    #pan {
+        /* border: 2px solid; */
+        font-size: 33px;
+        border-radius: 10px;
+        padding: 44px;
+    }
+
+    #para {
+        position: relative;
+        left: 52px;
+    }
+
+    #lastboxx {
+        background-color: rgb(10, 10, 10);
+        width: 1200px;
+        margin-left: 0px;
+        margin-top: 90px;
+        padding: 20px;
+        border-radius: 60px;
+    }
+
+    #outerbg {
+        width: 300px;
+        background-color: #181717;
+        font-size: 32px;
+        padding: 20px;
+        border-radius: 20px;
+    }
+
+    .below-text-line {
+        width: 452px;
+        margin-left: 238px;
+        margin-top: -18px;
+        height: 38px;
+        border: solid 5px gold;
+        border-color: gold transparent transparent transparent;
+        border-radius: 165% / 90px 35px 0 0;
+    }
+
+    #hrscss {
+        width: 358px;
+        margin-left: 394px;
+        margin-top: -4px;
+        height: 38px;
+        border: solid 5px gold;
+        border-color: gold transparent transparent transparent;
+        border-radius: 165% / 90px 35px 0 0;
+    }
+
+    #bestcss {
+        width: 364px;
+        margin-left: 388px;
+        margin-top: -4px;
+        height: 38px;
+        border: solid 5px gold;
+        border-color: gold transparent transparent transparent;
+        border-radius: 165% / 90px 35px 0 0;
+    }
+
+    #realcss {
+        width: 354px;
+        margin-left: 365px;
+        margin-top: -18px;
+        height: 38px;
+        border: solid 5px yellow;
+        border-color: yellow transparent transparent transparent;
+        border-radius: 165% / 90px 35px 0 0;
+    }
+
+    #startt {
+        font-weight: bold;
+        font-size: 70px;
+        padding: 90px;
+
+    }
+
+    #pss {
+        margin-left: 120px;
+    }
+
+    #lastboxx .reg-timer {
+        font-size: 32px;
+    }
+
+    .bonus-text {
+        text-align: center;
+    }
+    #chev{
+        font-size: 50px;
+    }
+
+}
