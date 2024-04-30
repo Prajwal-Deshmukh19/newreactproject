@@ -8,11 +8,12 @@ import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 import * as bootstrap from 'bootstrap';
 import { Practise } from './Assignment_2/Ass';
 import { AssignmentPractise } from './assignment/ap';
+import { YouTubeProject } from './yt';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <AssignmentPractise />
+    <YouTubeProject />
   </React.StrictMode>
 );
 
